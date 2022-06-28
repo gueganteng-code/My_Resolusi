@@ -2,4 +2,6 @@
 2.reactjs
 3.nodejs
 4.Tailwind
+5.Laravel
+6.Codeigniter 4
 
