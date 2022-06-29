@@ -5,4 +5,6 @@
 5.Laravel
 6.Codeigniter 4
 7.react native
+8.Sublime texs
+9.Atom
 
